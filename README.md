@@ -23,3 +23,6 @@ Simply look at the color given to you and by looking at codes and by looking at 
 <p align="center">
   <img src="http://map.sdsu.edu/geog104/lecture/images/rgb.gif">
 </p>
+
+
+To run this game, you can go here: <a href="http://codepen.io/dzielski/pen/QEpmWO" target="_blank">Color Game</a>
